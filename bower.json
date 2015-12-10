@@ -1,0 +1,19 @@
+{
+  "name": "ElixirGulpBase",
+  "description": "A frontend base to design templates with bootstrap + gulp",
+  "main": "",
+  "authors": [
+    "Dybo"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  }
+}
